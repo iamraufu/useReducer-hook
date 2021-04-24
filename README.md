@@ -3,4 +3,4 @@
 An alternative to useState
 
 ## Documentation
-https://reactjs.org/docs/hooks-reference.html#usereducer# useReducer-hook
+https://reactjs.org/docs/hooks-reference.html#usereducer#
