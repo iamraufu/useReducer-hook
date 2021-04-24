@@ -18,10 +18,10 @@ const ReducerCount = () => {
       
       return (
 
-            <div className="container">
+            <div className="container mt-5">
                   <h1>Reducer Count: {state.count}</h1>
-                  <button className='btn btn-success mx-5' onClick={() => dispatch({ type: 'INCREMENT' })}>Increment</button>
-                  <button className='btn btn-danger' onClick={() => dispatch({ type: 'DECREMENT' })}>Decrement</button>
+                  <button className='btn btn-success mx-5 mt-5' onClick={() => dispatch({ type: 'INCREMENT' })}>Increment</button>
+                  <button className='btn btn-danger mt-5' onClick={() => dispatch({ type: 'DECREMENT' })}>Decrement</button>
             </div>
 
       );
