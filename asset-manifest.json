@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/useReducer-hook/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/useReducer-hook/static/js/main.7977c07c.chunk.js",
+    "main.js.map": "/useReducer-hook/static/js/main.7977c07c.chunk.js.map",
+    "runtime-main.js": "/useReducer-hook/static/js/runtime-main.701db5b4.js",
+    "runtime-main.js.map": "/useReducer-hook/static/js/runtime-main.701db5b4.js.map",
+    "static/js/2.c46bfc69.chunk.js": "/useReducer-hook/static/js/2.c46bfc69.chunk.js",
+    "static/js/2.c46bfc69.chunk.js.map": "/useReducer-hook/static/js/2.c46bfc69.chunk.js.map",
+    "static/js/3.9ff80c63.chunk.js": "/useReducer-hook/static/js/3.9ff80c63.chunk.js",
+    "static/js/3.9ff80c63.chunk.js.map": "/useReducer-hook/static/js/3.9ff80c63.chunk.js.map",
+    "index.html": "/useReducer-hook/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/useReducer-hook/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c46bfc69.chunk.js.LICENSE.txt": "/useReducer-hook/static/js/2.c46bfc69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.701db5b4.js",
+    "static/js/2.c46bfc69.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7977c07c.chunk.js"
+  ]
+}
